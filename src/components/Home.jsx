@@ -174,6 +174,7 @@ const Home = () => {
           )}
         </div>
       </div>
+      <div className="m-6 p-3"></div>
     </main>
   );
 };
